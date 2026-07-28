@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-eu6cbt.need2.cyou/sitemap.xml
